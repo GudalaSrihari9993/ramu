@@ -24,6 +24,7 @@ void read1 (int col,int row,int (*dst1)[col])
      for(j=0;j<col;j++)
      {
          scanf("%d",&dst1[i][j]);
+         printf("ramu naidu\n");
      }
    }
 
